@@ -6,7 +6,7 @@ This is a simple and interactive React app where you can count how many mangoes 
 
 ## 📸 Screenshot
 
-![Fruits Counter Screenshot](./src/screenshot-output.png)
+![Fruits Counter Screenshot](./src/screenshot-ouput.png)
 
 > Make sure to place the screenshot image in the root folder and name it `screenshot.png`, or update the path accordingly.
 
